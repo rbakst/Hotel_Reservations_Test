@@ -1,2 +1,2 @@
 */__pycache__
-sql/db_info.py
+src/sql/db_info.py
